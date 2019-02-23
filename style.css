@@ -1,0 +1,272 @@
+body
+{
+
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: grey;
+    //overflow: hidden;
+
+}
+.topic{
+    //width: 980px;
+    background:right;
+    overflow: hidden;
+    
+}
+.de
+{
+    list-style: none;
+}
+.topic ul li{
+    list-style: none;
+    float: right;
+    padding: 20px;
+
+}
+ .socal-icon 
+{
+    list-style: none;
+}
+
+.box
+{
+    //position:left;
+    top: 200px;
+    //width: 700px;
+    //height: 400px;
+    background:lightblue;
+    margin-top: 20px;
+    overflow: hidden;
+    border: 1px solid;
+    
+
+}
+.imagBx
+{
+    width: 400px;
+    height: 400px;
+    background: lightblue;
+    overflow: hidden;
+    float: left;
+
+}
+.imagBx img
+{
+    transition: 0.5s;
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+}
+.box:hover .imgBx img
+{
+    opacity: 0.5;
+}
+.headline
+{
+    height: 150px;
+    background-color: darkslategray;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 15px;
+    
+    
+}
+.headline h1
+{
+    color: aqua;
+    top: 90px;
+}
+.social
+{
+    float: right;
+    margin-right: 180px;
+    margin-top: 20px;
+}
+.details
+{
+    background: rgb(103, 100, 139);
+    overflow: hidden;
+    height: 250px;
+    width: 500px;
+    margin-top: 30px;
+    text-align: center;
+    float: left;
+    margin-left: 50px;
+    border-radius: 30px;
+}
+.socal-icon li a
+{
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center
+    
+
+}
+.ending
+{
+    height: 100px;
+    background-color: darkgray;
+    
+}
+.ending h2
+{
+   text-align: center
+}
+.ending h3
+{
+    text-align: center;
+}
+.title
+{
+    height: 70px;
+    background-color: darkgreen;
+    border-radius: 15px;
+}
+.title h1
+{
+    margin-left: 20px;
+    color: beige;
+}
+
+.me
+{
+    height: 250px;
+    background-color: ghostwhite;
+    //text-align: center;
+    overflow: hidden;
+    
+}
+.me p
+{
+    margin-left:20px;
+    color: brown;
+}
+
+.E
+{
+    height: 70px;
+    background-color: darkslategray;
+    //text-align: center;
+    overflow: hidden;
+    border-radius: 15px;
+    
+    
+}
+.E h1
+{
+    margin-left:20px;
+    color: beige;
+
+}
+.de
+{
+    height: 400px;
+    background-color: cyan;
+    //text-align: center;
+    overflow: hidden;
+    
+    
+   
+    
+}
+.de h1
+{
+    margin-left:20px
+     
+    
+}
+.de p,li
+{
+    margin-left:20px 
+
+}
+.ab 
+{
+    height: 100px;
+   background-color: cornsilk;
+   
+}
+.ab p
+{
+    margin-top: 10px;
+  margin-left: 20px;
+}
+.e
+{
+    text-align: center;
+    border-radius: 15px;
+    background-color: darkcyan;
+    height: 100px;
+
+}
+form
+{
+    border: 10px;
+    background-color: honeydew;
+    padding-left: 150px;
+    padding-top:50px;
+    padding-right: 150px;
+    padding-bottom: 100px;
+
+   
+    
+}
+.info
+{
+    padding: 30px;
+}
+.gendar
+{
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    width: 300px;
+}
+.in1
+{
+    margin-left: 50px;
+}
+.in2
+{
+    margin-left: 30px;
+}
+info2,input
+{
+    margin-left: 60px;
+}
+.subject
+{
+    margin-left: 45px;
+    width: 400px;
+    height: 40px;
+}
+
+textarea
+{
+    height: 150px;
+    width: 400px;
+    margin-left:35px;
+}
+.but
+{
+  text-align: center;
+  background-color: burlywood;
+  border-radius: 15px;
+
+
+}
+.fild
+{
+    height: 25px;
+    width: 400px;
+}
+.emailfor
+{
+    text-align: center;
+}
+
